@@ -1,1 +1,2 @@
-Git is a version control software.
+Git is a free version control software.
+My stupid boss prefer hg.
